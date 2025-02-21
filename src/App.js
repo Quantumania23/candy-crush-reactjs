@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
 import blueCandy from './images/blue-candy.png'
